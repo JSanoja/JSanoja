@@ -1,1 +1,1 @@
-![alt text](https://github.com/JSanoja/JSanoja/blob/main/bannerJS.jpg?raw=true)
+![alt text](https://github.com/JSanoja/JSanoja/blob/main/banner.jpg?raw=true)
